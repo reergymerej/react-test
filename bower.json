@@ -1,0 +1,19 @@
+{
+  "name": "react-test",
+  "version": "0.0.0",
+  "authors": [
+    "Jeremy Greer <jeremy.greer.atl@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}
